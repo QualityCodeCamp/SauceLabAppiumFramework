@@ -2,7 +2,7 @@ Username: accesbility id : test-Username
 password: accesbility id :test-Password
 Login: accessbility id : test-LOGIN
 ios predicate string : label == "PRODUCTS" AND name == "PRODUCTS" AND value == "PRODUCTS"
-
+//Test changes
 Android loginbutton: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView
 android products: //android.view.ViewGroup[@content-desc="test-Cart drop zone"]/android.view.ViewGroup/android.widget.TextView
 
